@@ -1,7 +1,7 @@
 # VIS klasseliste
 
 ## About
-Visma VIS is an LMS used by Norwegian upper secondary schools in certain regions. VIS klasseliste is a Google Chrome extension with the aim of generating printer-friendly grid of students and their names.
+Visma inSchool (VIS) is an LMS used by Norwegian upper secondary schools in certain regions. VIS klasseliste is a Google Chrome extension with the aim of generating printer-friendly grid of students and their names.
 
 ## Demonstration
 
