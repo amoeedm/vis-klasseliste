@@ -20,7 +20,7 @@ Visma VIS is an LMS used by Norwegian upper secondary schools in certain regions
 
 You can permanently change the default number of columns of the grid by editing `klasseliste.js` and removing or adding `1fr` to `elevGrid.style.gridTemplateColumns`.
 
-## Troubleshooting
+## Assumption
 
 The extension assumes that the url is of the form `https://*.inschool.visma.no/#/app/attendance/*`
 
