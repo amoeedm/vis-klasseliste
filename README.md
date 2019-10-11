@@ -14,7 +14,7 @@ Visma VIS is an LMS used by Norwegian upper secondary schools in certain regions
 3. Navigate to `chrome://extensions/` in the Chrome browser.
 4. Enable `Developer mode` (Norwegian: `Utviklermodus`).
 5. Click on the `Load unpacked extension` (Norwegian: `Last inn upakket`) and choose the local folder `VIS-klasseliste`.
-6. Look for the icon <img src="https://raw.githubusercontent.com/amoeedm/vis-klasseliste/master/app/icon.png" width="20"> on your toolbar.
+6. Apply the extension with the icon <img src="https://raw.githubusercontent.com/amoeedm/vis-klasseliste/master/app/icon.png" width="20"> on your toolbar.
 
 ## Tips and tricks
 
