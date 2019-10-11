@@ -5,7 +5,7 @@ Visma VIS is an LMS used by Norwegian upper secondary schools in certain regions
 
 ## Demonstration
 
-<img src="https://raw.githubusercontent.com/amoeedm/vis-klasseliste/master/docs/demo.gif">
+<img src="https://raw.githubusercontent.com/amoeedm/vis-klasseliste/master/docs/demo.gif"> 
 
 ## Installation
 
