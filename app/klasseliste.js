@@ -1,3 +1,5 @@
+//Authored by John/Jane Doe.
+
 (function() {
 
     const elevDiv = document.querySelectorAll(".attendance-card-header");
